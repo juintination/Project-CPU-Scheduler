@@ -64,7 +64,7 @@ java Sched 텍스트파일명.txt 알고리즘명 quantum
 
 ## 클래스 다이어그램
 
--   추후 추가 예정
+<img width="854" alt="스크린샷 2023-06-28 오후 4 52 23" src="https://github.com/juintination/Project-CPU-Scheduler/assets/89019601/e65035a7-a3b8-4242-89e6-30eb88ff3e59">
 
 ---
 
