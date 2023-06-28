@@ -54,11 +54,11 @@ testcase의 예는 다음과 같다.
 -   Client.java : 테스트 케이스를 키보드로 입력, 스케줄링 알고리즘은 코드에서 수정하여야 함
 -   Sched.java : 다음과 같은 코드를 terminal에 입력해야 함
 
+```
 cd 디렉터리명/Project-CPU-Scheduler/src/
-
 javac Sched.java
-
 java Sched 텍스트파일명.txt 알고리즘명 quantum
+```
 
 ---
 
